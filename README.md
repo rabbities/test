@@ -11,7 +11,7 @@
 卫报 - 每周两期, 每周三、周日更新
 Nature - 周刊, 每周六下午更新
 New Scientitst(新科学人) - 周刊, 每周日上午更新
-Newsweek - 新闻周刊, 每周日更新
+Newsweek - `新闻周刊`, 每周日更新
 Scientific American - 月刊, 每月25号更新
 The Atlantic - 月刊, 每月2号更新
 Wired - 月刊, 每月2号更新
@@ -20,6 +20,8 @@ Wired - 月刊, 每月2号更新
 国家地理(美国) - 2020年全集
 如何选择杂志 ? 请参考下面两篇文章
 
+[](https://cdn.jsdelivr.net/gh/edge-iris/oss@oss/image/jpeg/2022/04/21/13/5808165052068816505206882482gsbLK.jpg)
+**438473**
 考研英语题源分析，看看题目来自于哪里
 2018英语外刊大合集
 ## 三、其他阅读器
