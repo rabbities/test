@@ -1,7 +1,7 @@
 # 经济学人、纽约客、自然、卫报等英语外刊杂志下载
 
-![](https://cdn.jsdelivr.net/gh/edge-iris/oss@oss/image/jpeg/2022/04/21/13/5808165052068816505206882482gsbLK.jpg)
 
+![](https://cdn.jsdelivr.net/gh/edge-iris/oss@oss/image/jpeg/2022/04/21/13/5808165052068816505206882482gsbLK.jpg)
 
 ## 一、优质App推荐
  英阅阅读器 - 超好用的英语阅读神器, 可阅读海量英文小说、外刊杂志( 经济学人、纽约客等),支持点击查词、句子翻译、mdict英汉-英英词典、阅读笔记等功能,iOS版下载、Android版下载;
@@ -21,7 +21,9 @@ Wired - 月刊, 每月2号更新
 国家地理(美国) - 2020年全集
 如何选择杂志 ? 请参考下面两篇文章
 
-[](https://cdn.jsdelivr.net/gh/edge-iris/oss@oss/image/jpeg/2022/04/21/13/5808165052068816505206882482gsbLK.jpg)
+![](https://cdn.jsdelivr.net/gh/edge-iris/oss@oss/image/jpeg/2022/04/21/13/5808165052068816505206882482gsbLK.jpg)
+
+
 **438473**
 考研英语题源分析，看看题目来自于哪里
 2018英语外刊大合集
